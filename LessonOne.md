@@ -1,6 +1,6 @@
 Create new string
 
-* git init - initializations
+* git init - инициализация гита
 * git add /* some file */ - add file to git
 * git commit -m "some discriptions" - to save commit
 * git log - to see all los files
