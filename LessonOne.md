@@ -1,8 +1,8 @@
 Create new string
 
 * git init - инициализация гита
-* git add /* some file */ - add file to git
-* git commit -m "some discriptions" - to save commit
-* git log - to see all los files
-* git checkout - to choose some version (only first 4 symbols)
-* git checkout master - to back in branch
+* git add /* some file */ - добавить файл в обработку гитом
+* git commit -m "some discriptions" - зафиксировать состояние
+* git log - посмотреть все коммиты
+* git checkout - переход на другие коммиты и ветви
+* git checkout master - вернуться вна ветвь мастер
