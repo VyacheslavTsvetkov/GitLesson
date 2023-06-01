@@ -6,3 +6,6 @@ Create new string
 * git log - посмотреть все коммиты
 * git checkout - переход на другие коммиты и ветви
 * git checkout master - вернуться вна ветвь мастер
+* git clone http//:... - скопировать репозиторий
+* git pull - вытянуть изменения
+* git push - загрузить свои изменения 
